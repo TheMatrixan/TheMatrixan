@@ -4,6 +4,3 @@ I'm Software Engineer from Lodz <img src="https://github.com/TheMatrixan/TheMatr
 
 [<img src="https://github.com/TheMatrixan/TheMatrixan/blob/master/img/linkedin.svg" alt="LinkedIn" width="16" height="16">&nbsp;<strong>LinkedIn</strong>](https://www.linkedin.com/in/mateusz-lesiak-tul/)
 
----
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TheMatrixan/TheMatrixan)
